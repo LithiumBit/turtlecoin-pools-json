@@ -1,0 +1,19 @@
+{
+    "pools" : [
+        {
+            "name" : "LithiumBit (LBIT) Mining Pool",
+            "url" : "https://easyhash.pro/lbit/",
+            "api" : "https://easyhash.pro/lbit/api/",
+            "type" : "node.js",
+            "miningAddress" : "easyhash.pro"
+        },
+        
+        {
+            "name" : "LithiumBit Pool",
+            "url" : "http://pool01.lithiumbit.com",
+            "api" : "http://144.202.45.212:8117/stats",
+            "type" : "forknote",
+            "miningAddress" : "pool01.lithiumbit.com"
+        }
+    ]
+}
