@@ -6,6 +6,13 @@
             "api" : "http://144.202.45.212:8117/",
             "type" : "forknote",
             "miningAddress" : "pool01.lithiumbit.com"
-        }
+        },
+        {
+            "name" : "LithiumBit (LBIT) Mining Pool",
+            "url" : "https://easyhash.pro/lbit/",
+            "api" : "https://easyhash.pro/lbit/api/",
+            "type" : "node.js",
+            "miningAddress" : "easyhash.pro"
+        },
     ]
 }
