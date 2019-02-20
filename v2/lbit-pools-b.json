@@ -1,0 +1,11 @@
+{
+    "pools" : [
+      {
+            "name" : "LithiumBit Pool",
+            "url" : "http://pool01.lithiumbit.com",
+            "api" : "http://144.202.45.212:8117/",
+            "type" : "forknote",
+            "miningAddress" : "pool01.lithiumbit.com"
+        }
+    ]
+}
